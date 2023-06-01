@@ -1,0 +1,20 @@
+2022-11-30 15:55:32,101 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 15:55:32,102 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 15:55:32,102 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 15:55:32,103 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 15:55:32,103 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a95c5448-f18b-4e17-93dd-7ba9ac616694
+- device_id=android-964b97e8f8558f12
+2022-11-30 15:55:32,106 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 15:55:33,247 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 15:55:33,923 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 15:55:33,924 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 15:55:33,925 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 15:55:34,498 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 15:55:34,785 - instabot version: 0.117.0 (bot_direct) - INFO - Going to send 1 messages.
+2022-11-30 15:55:35,300 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 15:55:36,045 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 15:55:36,899 - instabot version: 0.117.0 (bot_direct) - INFO - Going to send 2 messages.

@@ -1,0 +1,26 @@
+2022-11-30 16:05:06,584 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:05:06,585 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:05:06,586 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:05:06,586 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:05:06,586 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:05:06,587 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:05:08,119 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:05:09,021 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:05:09,022 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:05:09,023 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:05:09,603 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:05:10,598 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:05:11,802 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:05:12,916 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:05:13,520 - instabot version: 0.117.0 (bot_direct) - INFO - Going to send 9 messages.
+2022-11-30 16:05:14,344 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/k/usernameinfo/ returned response: <Response [404]>
+2022-11-30 16:05:14,344 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"User not found","status":"fail","error_type":"user_not_found"}'
+2022-11-30 16:05:14,711 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:05:14,712 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/61
+2022-11-30 16:05:14,712 - instabot version: 0.117.0 (bot) - INFO - Total messages: 6/59
+2022-11-30 16:05:14,714 - instabot version: 0.117.0 (bot) - INFO - Total requests: 384

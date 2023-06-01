@@ -1,0 +1,308 @@
+2022-11-30 16:18:20,515 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:18:20,516 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:18:20,516 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:18:20,516 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:18:20,517 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:18:20,519 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:18:21,628 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:18:22,437 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:18:22,438 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:18:22,438 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:18:23,002 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:24,027 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:25,137 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:26,533 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:27,622 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:18:27,622 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:18:27,640 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:18:28,568 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:18:28,569 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:18:28,571 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:18:29,427 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:18:30,114 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:18:31,035 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:18:32,186 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:18:32,191 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:18:32,192 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:18:32,193 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:18:32,193 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:18:32,194 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:18:32,199 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:18:33,351 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:18:33,983 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:18:33,985 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:18:33,986 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:18:34,518 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:35,990 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:36,861 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:38,198 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:39,253 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:18:39,253 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:18:39,259 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:18:40,106 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:18:40,107 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:18:40,108 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:18:40,894 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:18:41,553 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:18:42,404 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:18:43,243 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:18:43,247 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:18:43,248 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:18:43,249 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:18:43,249 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:18:43,249 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:18:43,255 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:18:44,157 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:18:44,749 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:18:44,751 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:18:44,752 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:18:45,278 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:46,636 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:47,575 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:48,990 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:49,885 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:18:49,885 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:18:49,890 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:18:50,713 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:18:50,714 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:18:50,716 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:18:51,512 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:18:52,141 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:18:53,072 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:18:54,185 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:18:54,188 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:18:54,189 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:18:54,190 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:18:54,190 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:18:54,190 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:18:54,193 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:18:55,185 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:18:55,818 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:18:55,821 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:18:55,823 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:18:56,421 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:57,296 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:58,082 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:18:59,389 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:00,623 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:19:00,623 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:19:00,630 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:19:01,398 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:01,399 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:19:01,401 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:19:02,215 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:02,871 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:19:03,826 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:19:04,615 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:19:04,621 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:19:04,624 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:19:04,626 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:19:04,627 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:19:04,627 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:19:04,632 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:19:05,707 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:19:06,395 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:19:06,397 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:19:06,399 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:19:06,971 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:08,187 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:09,228 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:10,367 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:11,753 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:19:11,754 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:19:11,760 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:19:12,750 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:12,752 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:19:12,754 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:19:13,624 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:14,278 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:19:15,115 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:19:15,980 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:19:15,984 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:19:15,988 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:19:15,988 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:19:15,989 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:19:15,989 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:19:15,997 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:19:17,400 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:19:17,995 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:19:17,998 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:19:17,999 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:19:18,538 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:19,547 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:20,846 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:21,625 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:22,358 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:19:22,358 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:19:22,364 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:19:23,670 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:23,672 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:19:23,676 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:19:24,435 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:25,112 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:19:26,161 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:19:27,005 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:19:27,010 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:19:27,013 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:19:27,014 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:19:27,014 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:19:27,014 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:19:27,019 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:19:28,086 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:19:28,674 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:19:28,676 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:19:28,678 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:19:29,239 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:30,823 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:31,770 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:32,829 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:34,081 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:19:34,081 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:19:34,085 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:19:34,982 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:34,983 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:19:34,986 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:19:35,824 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:36,467 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:19:37,795 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:19:38,701 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:19:38,705 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:19:38,708 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:19:38,709 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:19:38,711 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:19:38,711 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:19:38,721 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:19:39,822 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:19:40,455 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:19:40,460 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:19:40,463 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:19:41,008 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:42,149 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:43,190 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:43,925 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:45,052 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:19:45,053 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:19:45,060 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:19:45,846 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:45,848 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:19:45,852 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:19:46,760 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:47,416 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:19:48,558 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:19:49,469 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:19:49,471 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:19:49,473 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:19:49,476 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:19:49,477 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:19:49,478 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:19:49,492 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:19:50,576 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:19:51,207 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:19:51,210 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:19:51,214 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:19:51,729 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:53,013 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:53,852 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:55,055 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:19:56,192 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:19:56,192 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:19:56,201 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:19:57,081 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:57,081 - instabot version: 0.117.0 (bot_filter) - INFO - Received 4 medias.
+2022-11-30 16:19:57,084 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 4 medias left.
+2022-11-30 16:19:57,918 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 16:19:58,590 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/52777324690/info/ returned response: <Response [200]>
+2022-11-30 16:19:59,684 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/2993770381/info/ returned response: <Response [200]>
+2022-11-30 16:20:00,559 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/3251962349/info/ returned response: <Response [200]>
+2022-11-30 16:20:00,561 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:20:00,565 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:20:00,566 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:20:00,566 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:20:00,567 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:20:00,573 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:20:01,975 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:01,976 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:01,980 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:01,982 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:01,984 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:01,985 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:01,986 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:01,988 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:01,989 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:01,990 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:01,993 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:01,995 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:01,997 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:01,997 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:01,999 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,001 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,002 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,003 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,004 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,006 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,008 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,010 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,012 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,014 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,015 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,016 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,018 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,019 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,021 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,022 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,024 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,026 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,028 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,029 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,031 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,032 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426

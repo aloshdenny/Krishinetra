@@ -1,0 +1,21 @@
+2022-11-30 13:04:02,663 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 13:04:02,664 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 13:04:02,664 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 13:04:02,664 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 13:04:02,664 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=333f6cfa-9278-4239-abc3-2c4265511390
+- device_id=android-964b97e8f8558f12
+2022-11-30 13:04:02,665 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 13:04:03,651 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 13:04:04,283 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 13:04:04,285 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 13:04:04,285 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 13:04:04,884 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/API_TEST_PLEASE_IGNORE/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 13:04:04,885 - instabot version: 0.117.0 (bot_filter) - INFO - Received 1 medias.
+2022-11-30 13:04:04,885 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 0 medias left.
+2022-11-30 13:04:04,885 - instabot version: 0.117.0 (bot_photo) - INFO - Nothing to downloads.
+2022-11-30 13:04:04,886 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 13:04:04,886 - instabot version: 0.117.0 (bot) - INFO - Total requests: 48

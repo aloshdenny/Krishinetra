@@ -1,0 +1,47 @@
+2022-11-30 16:20:00,561 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:20:00,565 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:20:00,566 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:20:00,566 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:20:00,567 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:20:00,573 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:20:01,975 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:01,976 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:01,980 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:01,982 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:01,984 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:01,985 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:01,986 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:01,988 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:01,989 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:01,990 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:01,993 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:01,995 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:01,997 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:01,997 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:01,999 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,001 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,002 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,003 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,004 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,006 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,008 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,010 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,012 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,014 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,015 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,016 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,018 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,019 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,021 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,022 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,024 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,026 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426
+2022-11-30 16:20:02,028 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:20:02,029 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/62
+2022-11-30 16:20:02,031 - instabot version: 0.117.0 (bot) - INFO - Total messages: 10/81
+2022-11-30 16:20:02,032 - instabot version: 0.117.0 (bot) - INFO - Total requests: 426

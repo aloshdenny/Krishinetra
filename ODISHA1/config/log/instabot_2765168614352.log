@@ -1,0 +1,224 @@
+2022-11-30 16:30:14,305 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 16:30:14,306 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 16:30:14,306 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 16:30:14,306 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 16:30:14,307 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a0c64024-1eec-493e-a7b8-2305e3a6ab44
+- device_id=android-964b97e8f8558f12
+2022-11-30 16:30:14,308 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 16:30:15,588 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 16:30:16,250 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 16:30:16,251 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 16:30:16,251 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:30:16,857 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:30:17,914 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:30:18,956 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:30:19,845 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/kyloren.x/usernameinfo/ returned response: <Response [200]>
+2022-11-30 16:30:20,801 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2022-11-30 16:30:20,802 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 4 users.
+2022-11-30 16:30:20,818 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 9 users in total.
+2022-11-30 16:30:21,791 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:21,791 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:21,791 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:21,792 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:21,792 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:21,793 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:22,202 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:22,202 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:22,202 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:22,203 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:22,203 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:22,204 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:22,647 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:22,648 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:22,648 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:22,648 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:22,649 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:22,650 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:23,103 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:23,104 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:23,104 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:23,105 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:23,105 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:23,106 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:23,573 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:23,573 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:23,573 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:23,574 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:23,575 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:23,575 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:24,002 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:24,002 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:24,002 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:24,003 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:24,004 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:24,005 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:24,430 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:24,431 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:24,431 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:24,431 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:24,431 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:24,432 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:24,868 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:24,868 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:24,868 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:24,869 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:24,869 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:24,870 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:25,454 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:25,454 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:25,454 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:25,455 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:25,456 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:25,456 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:25,869 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:25,869 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:25,869 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:25,870 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:25,871 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:25,871 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:26,333 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:26,333 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:26,333 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:26,333 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:26,334 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:26,334 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:26,766 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:26,767 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:26,767 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:26,767 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:26,768 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:26,768 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:27,254 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:27,254 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:27,254 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:27,255 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:27,256 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:27,256 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:27,708 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:27,708 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:27,708 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:27,709 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:27,709 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:27,710 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:28,124 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:28,124 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:28,124 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:28,125 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:28,126 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:28,127 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:28,577 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:28,578 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:28,578 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:28,578 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:28,579 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:28,579 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:29,035 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:29,036 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:29,036 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:29,037 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:29,037 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:29,038 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:29,505 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:29,505 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:29,505 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:29,506 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:29,507 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:29,507 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:29,922 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:29,922 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:29,922 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:29,923 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:29,923 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:29,923 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:30,349 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:30,349 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:30,349 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:30,350 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:30,351 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:30,352 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:30,764 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:30,764 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:30,764 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:30,765 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:30,765 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:30,766 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:31,201 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:31,201 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:31,202 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:31,202 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:31,203 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:31,204 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:31,628 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:31,629 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:31,629 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:31,630 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:31,631 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:31,631 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:32,062 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:32,062 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:32,062 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:32,064 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:32,064 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:32,064 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:32,521 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:32,521 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:32,521 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:32,521 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:32,522 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:32,522 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:32,959 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:32,959 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:32,959 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:32,960 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:32,960 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:32,961 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:33,384 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:33,385 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:33,385 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:33,386 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:33,387 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:33,387 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:33,850 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:33,850 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:33,851 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:33,851 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:33,852 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:33,853 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:34,270 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:34,270 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:34,270 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:34,271 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:34,272 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:34,272 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:34,723 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:34,723 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:34,723 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:34,724 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:34,725 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:34,726 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:35,192 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:35,192 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:35,192 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:35,192 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:35,193 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:35,193 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:35,639 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:35,640 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:35,640 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:35,640 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:35,641 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:35,642 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:36,106 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshin/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [400]>
+2022-11-30 16:30:36,107 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 16:30:36,107 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-11-30 16:30:36,107 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Please wait a few minutes before you try again.
+2022-11-30 16:30:36,108 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2022-11-30 16:30:36,109 - instabot version: 0.117.0 (bot_get) - WARNING - Error while getting hashtag feed.
+2022-11-30 16:30:36,263 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 16:30:36,263 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/93
+2022-11-30 16:30:36,263 - instabot version: 0.117.0 (bot) - INFO - Total messages: 12/93
+2022-11-30 16:30:36,265 - instabot version: 0.117.0 (bot) - INFO - Total requests: 956

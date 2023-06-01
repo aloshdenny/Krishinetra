@@ -1,0 +1,49 @@
+2022-11-30 14:13:07,095 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 14:13:07,096 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 14:13:07,096 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 14:13:07,096 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 14:13:07,097 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=18b8a4f9-e777-487e-9344-d901404c4a06
+- device_id=android-964b97e8f8558f12
+2022-11-30 14:13:07,100 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 14:13:09,432 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 14:13:10,092 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 14:13:10,095 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 14:13:10,096 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 14:13:13,271 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshi/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 14:13:13,278 - instabot version: 0.117.0 (bot_filter) - INFO - Received 32 medias.
+2022-11-30 14:13:13,278 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 32 medias left.
+2022-11-30 14:13:16,584 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/tag/aloshi/?max_id=&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849&ranked_content=true& returned response: <Response [200]>
+2022-11-30 14:13:16,590 - instabot version: 0.117.0 (bot_photo) - INFO - Going to download 32 medias.
+2022-11-30 14:13:20,602 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2982062023225058730_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:13:24,805 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2982044550283095132_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:13:27,273 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2981991418806858522_5649176692/info/ returned response: <Response [200]>
+2022-11-30 14:13:41,540 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2980936561060955108_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:13:44,341 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2980639138769938860_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:13:47,523 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2980600275456468402_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:13:51,463 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2979945604597292223_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:13:55,349 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2979942384001018472_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:13:58,580 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2979926268100974814_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:14:00,005 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2979905218180813536_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:14:02,488 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2979903707543557731_26068451054/info/ returned response: <Response [200]>
+2022-11-30 14:14:04,793 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2977706739641641682_1034147379/info/ returned response: <Response [200]>
+2022-11-30 14:14:16,446 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974027629227181321_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:14:27,976 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974027471211034257_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:14:41,114 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974027342781458749_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:14:52,623 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974027129912234769_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:15:06,106 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974026977843585468_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:15:17,676 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974026790391558230_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:15:30,058 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974026644119424021_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:15:41,471 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974026442902055093_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:15:55,170 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974026260508549181_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:16:08,030 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974026091176059199_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:16:19,596 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974025923244437710_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:16:31,833 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2974025681627491912_8979589865/info/ returned response: <Response [200]>
+2022-11-30 14:16:44,338 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2971850392534969401_39121393182/info/ returned response: <Response [200]>
+2022-11-30 14:16:57,220 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2968197515616495840_18387322679/info/ returned response: <Response [200]>
+2022-11-30 14:16:58,590 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/2967836078369332429_56655885241/info/ returned response: <Response [200]>
+2022-11-30 14:17:03,287 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 14:17:03,288 - instabot version: 0.117.0 (bot) - INFO - Total requests: 247

@@ -1,0 +1,23 @@
+2022-11-30 21:57:41,495 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 21:57:41,495 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 21:57:41,496 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 21:57:41,496 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 21:57:41,497 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=490016c6-7a18-4709-b869-ecd55f3959a3
+- device_id=android-964b97e8f8558f12
+2022-11-30 21:57:41,498 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 21:57:43,184 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 21:57:44,005 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 21:57:44,006 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 21:57:44,007 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 21:57:44,466 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [429]>
+2022-11-30 21:57:44,466 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Please wait a few minutes before you try again.","status":"fail"}'
+2022-11-30 21:57:44,466 - instabot version: 0.117.0 (api) - ERROR - Request returns 429 error!
+2022-11-30 21:57:44,467 - instabot version: 0.117.0 (api) - WARNING - That means 'too many requests'. I'll go to sleep for 5 minutes.
+2022-11-30 21:57:48,857 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 21:57:48,858 - instabot version: 0.117.0 (bot) - INFO - Total follows: 9/99
+2022-11-30 21:57:48,858 - instabot version: 0.117.0 (bot) - INFO - Total messages: 13/95
+2022-11-30 21:57:48,859 - instabot version: 0.117.0 (bot) - INFO - Total requests: 975

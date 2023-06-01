@@ -1,0 +1,32 @@
+2022-11-30 14:56:02,758 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-11-30 14:56:02,758 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\angel\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-11-30 14:56:02,759 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2022-11-30 14:56:02,759 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2022-11-30 14:56:02,759 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9ebce813-461d-421c-9859-0960c47cd847
+- uuid=1381332e-a701-454e-801d-bccade877849
+- client_session_id=a6134b78-db06-4006-a6c5-24f97ffa58bb
+- device_id=android-964b97e8f8558f12
+2022-11-30 14:56:02,762 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2022-11-30 14:56:03,816 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2022-11-30 14:56:04,491 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2022-11-30 14:56:04,493 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eagle_eye_odisha'!
+2022-11-30 14:56:04,493 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 14:56:05,067 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a_o_x_o/usernameinfo/ returned response: <Response [200]>
+2022-11-30 14:56:05,747 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 32193483723.
+2022-11-30 14:56:05,748 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "32193483723", "radio_type": "wifi-none", "device_id": "android-964b97e8f8558f12", "_uuid": "1381332e-a701-454e-801d-bccade877849", "_uid": "56755204544", "_csrftoken": "W8ewlsaYzmpOnpyqTtnlFY0VBttp3Odc"}
+2022-11-30 14:56:07,263 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/32193483723/ returned response: <Response [200]>
+2022-11-30 14:56:07,263 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 32193483723.
+2022-11-30 14:56:07,866 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/56755204544/info/ returned response: <Response [200]>
+2022-11-30 14:56:08,360 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/56755204544/following/?max_id=&ig_sig_key_version=4&rank_token=56755204544_1381332e-a701-454e-801d-bccade877849 returned response: <Response [200]>
+2022-11-30 14:56:09,382 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/isuckmemes2/usernameinfo/ returned response: <Response [200]>
+2022-11-30 14:56:09,909 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 40206714186.
+2022-11-30 15:20:52,915 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "40206714186", "radio_type": "wifi-none", "device_id": "android-964b97e8f8558f12", "_uuid": "1381332e-a701-454e-801d-bccade877849", "_uid": "56755204544", "_csrftoken": "W8ewlsaYzmpOnpyqTtnlFY0VBttp3Odc"}
+2022-11-30 15:20:54,402 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/40206714186/ returned response: <Response [200]>
+2022-11-30 15:20:54,402 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 40206714186.
+2022-11-30 15:20:55,263 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/dop_cusat/usernameinfo/ returned response: <Response [200]>
+2022-11-30 15:20:56,055 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 56223587674.
+2022-11-30 15:23:18,294 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\angel\OneDrive\Desktop\ODISHA/config/eagle_eye_odisha.checkpoint
+2022-11-30 15:23:18,295 - instabot version: 0.117.0 (bot) - INFO - Total follows: 7/71
+2022-11-30 15:23:18,296 - instabot version: 0.117.0 (bot) - INFO - Total requests: 335
